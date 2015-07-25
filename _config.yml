@@ -1,0 +1,24 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+markdown: kramdown
+
+# Setup
+title:               ssexess
+tagline:             'Palindromische Universalitäten'
+description:         'Im Rausch der Sinne'
+url:                 http://asommer.github.io
+
+baseurl:             '/ssxss2'
+paginate:            1
+
+# About/contact
+author:
+  name:              Rachel Bühlmann
+  url:               https://ssexess.com
+  email:             rachelbuehlmann@gmail.com
+
+# Custom vars
+version:             0.1.2

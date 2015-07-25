@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<div class="page">
+
+  <h1 class="page-title">{{page.pagenr}} - {{ page.title }}</h1>
+  {{ content }}
+
+  <hr>
+
+  {% assign pages_list = site.pages | sort:"pagenr" %}
+  {% for node in pages_list %}
+    {% if node.title != null %}
+      {% if node.url == page.url %}
+        {% if node.title == page.title %}
+
+
+          {% assign currentpage = forloop.index0 %}
+          {% assign previouspage = currentpage | minus: '1' %}
+          {% assign prevpageurl = pages_list[previouspage].url %}
+          {% assign nextpage = currentpage | plus: '1' %}
+          {% assign nextpageurl = pages_list[nextpage].url %}
+
+          {% if previouspage != null %}
+          <a href="{{ site.baseurl }}{{ prevpageurl }}" class="btn"> Zurück </a>
+          {% endif %}
+
+          {{ currentpage }}
+
+          {% if forloop.rindex > 1 %}
+          <a href="{{ nextpageurl }}" class="btn"> Vor </a>
+          {% endif %}
+
+        {% endif %}
+      {% endif %}
+    {% endif %}
+
+  {% endfor %}
+
+
+
+  {% if page.previous.url %} <button type="button" name="button"> Previous</button> ... link to previous post ... {% endif %}
+  {% if page.next.url %} ... link to next post ... {% endif %}
+
+
+</div>

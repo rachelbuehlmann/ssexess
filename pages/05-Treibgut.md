@@ -1,0 +1,9 @@
+---
+layout: page
+title: Treibgut
+pagenr: 05
+---
+![Treibgut]({{ site.baseurl }}/assets/img/treibgut.png)
+
+
+Stellen wir uns folgende Filmszene vor die nichts mit Porno zu tun hat: wir blicken auf den offenen Ozean. Es ist Tag, die See scheint relativ ruhig zu sein; kleine Schäumchen deuten auf die Tiefe des Meeresgrundes hin. Ab und zu kreuzt eine Möwe unsere Sicht und ihr Gekreische verrät uns eine gewisse Trostlosigkeit der Szene. Im Bild taucht nun ein Mensch auf. Erschöpft und ausgezehrt versucht er sich über Wasser zu halten. Wir gehen näher ran und bekommen einen etwas präziseren Eindruck von diesem Mann. Seine Situation muss miserabel sein. Er taucht unter, schluckt Wasser, taucht wieder auf, japst und ringt nach Luft. Plötzlich sehen wir, wie aus dem Augenwinkel ein Stück Treibholz angeschwemmt kommt. Vermutlich ist es ein Überbleibsel vom gekenterten Boot. Wir kommen noch näher an den Mann heran und sehen nun sein Gesicht. Es ist ausgezehrt und auf seiner Stirn ist eine vom Salzwasser ausgewaschene Schramme zu sehen. Er versucht mit letzter Lebenskraft das kleine Stück Holz zu packen. Tränen der Verzweiflung treten ihm in die Augen und die Agonie scheint ihn schon bald zu paralysieren. Doch was jetzt geschieht steht nicht im Drehbuch geschrieben: Anstatt Mitleid mit dem Protagonisten empfinden zu können, dreht sich die Szene ins lächerliche. Der Standpunkt (die Kamera) verliert seine ätherische Bedeutung welche im spektakulären Auge des Beobachters liegt und wird zu einer materialisierten Gegebenheit. Die Kamera wird präsent, ohne dass sie im Bild als solche auftaucht. Dadurch werden wir nicht nur aus der filmischen Realität geworfen, es passiert sogar das Umgekehrte: wir werden zu einem Teil des Filmteams und die Kamera selbst wird zu einem potentiellen „Lebensrettungsinstrument“ - wenn er sie doch bloss greifen würde!

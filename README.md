@@ -1,1 +1,3 @@
 # ssexess
+
+## Palindromische Universalitäten

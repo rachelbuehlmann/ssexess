@@ -9,15 +9,15 @@ markdown: kramdown
 title:               ssexess
 tagline:             'Palindromische Universalitäten'
 description:         'Im Rausch der Sinne'
-url:                 http://rachelbuehlmann.github.io
+url:                 http://ssexess.de
 
-baseurl:             '/ssexess'
+baseurl:             ''
 paginate:            1
 
 # About/contact
 author:
   name:              Rachel Bühlmann
-  url:               https://ssexess.com
+  url:               https://ssexess.de
   email:             rachelbuehlmann@gmail.com
 
 # Custom vars

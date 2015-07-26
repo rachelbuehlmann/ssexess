@@ -2,4 +2,4 @@
 
 ## Palindromische Universalitäten
 
-Webedition der Masterthesis
+Webedition der Masterthesis von Rachel Bühlmann

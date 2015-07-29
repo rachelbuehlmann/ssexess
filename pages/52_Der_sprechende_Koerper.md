@@ -14,7 +14,7 @@ Die Gesundheit ist undurchsichtig und wird einzig durch die Absenz von Krankheit
 ---
 
 [^33]:
-Patient von latein: patiens ‚aushaltend‘, ‚fähig zu ertragen‘;
+			Patient von latein: patiens ‚aushaltend‘, ‚fähig zu ertragen‘;
 			passio: das ‚Leiden‘
 
 [^34]:

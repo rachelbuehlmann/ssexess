@@ -4,7 +4,7 @@ layout: default
 
 <div class="page">
 
-  <h1 class="page-title tk-futura-pt">{{page.pagenr}} - {{ page.title }}</h1>
+  <h1 class="page-title tk-futura-pt">{{ page.title }}</h1>
   {{ content }}
   <hr>
 
@@ -18,7 +18,7 @@ layout: default
         {% if node.title == page.title %}
 
         <div class="pgn-group">
-        
+
           {% assign currentpage = forloop.index0 %}
 
 <!-- Previous Page / Backwards -->

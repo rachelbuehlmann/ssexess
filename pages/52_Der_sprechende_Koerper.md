@@ -13,8 +13,6 @@ Die Gesundheit ist undurchsichtig und wird einzig durch die Absenz von Krankheit
 
 ---
 
-[^33]:
-	Patient von latein: patiens ‚aushaltend‘, ‚fähig zu ertragen‘; passio: das ‚Leiden‘
+[^33]: Patient von latein: patiens ‚aushaltend‘, ‚fähig zu ertragen‘; passio: das ‚Leiden‘
 
-[^34]:
-  in der Humoraltherapie war für die Gesundheit einzig das Gleichgewicht der vier Säfte (schwarze Galle, gelbe Galle, Blut und Schleim) ausschlaggebend. Jeder Mensch hatte eine bestimmte Veranlagung und jede Jahreszeit barg besondere Kräfte hinsichtlich des Säftehaushalts des Körpers in sich.
+[^34]: in der Humoraltherapie war für die Gesundheit einzig das Gleichgewicht der vier Säfte (schwarze Galle, gelbe Galle, Blut und Schleim) ausschlaggebend. Jeder Mensch hatte eine bestimmte Veranlagung und jede Jahreszeit barg besondere Kräfte hinsichtlich des Säftehaushalts des Körpers in sich.

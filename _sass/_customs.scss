@@ -17,8 +17,9 @@
 blockquote {
   padding-right: 9rem;
   padding-left: 5.25rem;
+  border: 0px;
 
-  &p:last-child {
+  &p {
     font-weight: 100;
     font-style: italic;
     font-size: 23px;

@@ -20,5 +20,8 @@ author:
   url:               https://ssexess.de
   email:             rachelbuehlmann@gmail.com
 
+sass:
+  style: :compressed
+
 # Custom vars
 version:             0.1.2

@@ -1,0 +1,82 @@
+---
+layout: sheets
+---
+
+<div class="sheets page">
+
+  <h1 class="page-title">{{page.pagenr}} - {{ page.title }}</h1>
+  {{ content }}
+
+  <hr>
+
+  {% for pag in site.pages  %}
+    {% if pag.pagenr != null %}
+      <em>{{ pag.title }} ( {{ pag.pagenr }} )</em>
+    {% endif %}
+  {% endfor %}
+
+
+  {% for paga in site.pages  %}
+    {% if paga.pagenr != null %}
+      <small>{{ paga.title }} ( {{ paga.pagenr}} vs. {{ forloop.index0 }} )</small>
+
+    {% endif %}
+  {% endfor %}
+
+
+  {% assign pages_list = site.pages %}
+
+  {% assign plist = site.pages | where: "thpage", true %}
+
+  <strong>
+    PLIST-Index: {{ plist | size }}
+  </strong>
+  <br>
+
+  {% for node in pages_list | sort: "pagenr" %}
+
+
+    
+
+    {% if node.title != null and page.pagenr != null  %}
+      {% if node.url == page.url %}
+        {% if node.title == page.title %}
+
+          {% assign currentpage = forloop.index0 %}
+
+          {% if currentpage > 1 %}
+
+            {% assign previouspage = currentpage | minus: '1' %}
+            {% assign prevpageurl = pages_list[previouspage].url %}
+
+          {% elsif forloop.rindex > 1 %}
+
+            {% assign nextpage = currentpage | plus: '1' %}
+            {% assign nextpageurl = pages_list[nextpage].url %}
+          
+          {% endif %}
+
+          {% if previouspage != null %}
+          <a href="{{ site.baseurl }}{{ prevpageurl }}" class="btn"> Zurück </a>
+          {% endif %}
+
+          {{ currentpage }}
+
+          {% if forloop.rindex > 2 %}
+            <a href="{{ nextpageurl }}" class="btn"> Vor </a>
+            RINDEX: {{ forloop.rindex }}
+          {% endif %}
+
+        {% endif %}
+      {% endif %}
+    {% endif %}
+
+  {% endfor %}
+
+
+
+  {% if page.previous.url %} <button type="button" name="button"> Previous</button> ... link to previous post ... {% endif %}
+  {% if page.next.url %} ... link to next post ... {% endif %}
+
+
+</div>

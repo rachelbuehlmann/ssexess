@@ -2,6 +2,7 @@
 layout: page
 title: Fotografie
 pagenr: 8
+thesispage: true
 ---
 ![Schlange2]({{ site.baseurl }}/assets/img/schlange.jpg)
 

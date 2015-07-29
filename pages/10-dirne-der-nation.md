@@ -2,6 +2,7 @@
 layout: page
 title: Dirne der Nation
 pagenr: 10
+thesispage: true
 ---
 ![Etant donnés: 1° la chute d’eau / 2° le gaz d’éclairage, Duchamp, Marcel, 1946 - 1966]({{ relative-baseurl }}/assets/img/image7.jpg)
 

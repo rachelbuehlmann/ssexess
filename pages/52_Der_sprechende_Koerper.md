@@ -2,6 +2,7 @@
 layout: page
 title: Der sprechende Körper
 pagenr: 52
+thesispage: true
 ---
 
 Es ist nicht schwierig die heutige Zeit, die unserige Zeit als eine Epoche der Audiovisionen zu bezeichnen. Kaum gezeugt, sind wir technisch in der Lage die Zellteilung und das Heranwachsen des Embryos audiovisuell aufzuzeichnen und in Daten übersetzt auf Speichermedien festgehalten dem Nachwuchs verfügbar zu machen. Dank Ultraschall, Sonographien, Computertomographien, Röntgenbilder und anderen Durchleuchtungstechniken meinen wir, wenn schon nicht der Quelle des ewigen Lebens, dann wenigstens dem Ursprung des Todes auf die Spur zu kommen. Ohne dem Leidenden zu nahe zu treten[^33], werden heute die Diagnosen in Form von Bildern gemacht. Taktraten, Frequenzen und Grauwerte geben Auskunft über das Blühen und Welken des Lebens. Der stumme Körper spricht stimmenlos aufs Band.

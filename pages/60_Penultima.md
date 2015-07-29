@@ -2,6 +2,7 @@
 layout: page
 title: Penultima
 pagenr: 60
+thesispage: true
 ---
 
 Das Spektakel, die Sättigung und die Klimax. Gemäss Foucault kann eine Gesellschaft danach beurteilt werden wie sie mit Macht operiert. Bataille bevorzugte sie gemäss ihrem Umgang mit überschüssiger, exzessiver Energie zu beurteilen und sowohl Linda Williams wie auch Barbara Maria Stafford versucht anhand von frühesten fotographischen Erzeugnissen, beziehungsweise anhand von visualisierungstechniken des 17. und 18. Jh. zu zeigen, dass „der Rausch des Sehens“ eben genau da zufinden ist.

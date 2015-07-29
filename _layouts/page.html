@@ -6,42 +6,47 @@ layout: default
 
   <h1 class="page-title">{{page.pagenr}} - {{ page.title }}</h1>
   {{ content }}
-
   <hr>
 
-  {% assign pages_list = site.pages | sort:"pagenr" %}
-  {% for node in pages_list %}
+  {% assign pages_list = site.pages %}
+  {% assign plist = site.pages | where: "thesispage", true %}
+
+  {% for node in plist | sort: "pagenr" %}
+
     {% if node.title != null %}
       {% if node.url == page.url %}
         {% if node.title == page.title %}
 
-
+        <div class="pgn-group">
+        
           {% assign currentpage = forloop.index0 %}
-          {% assign previouspage = currentpage | minus: '1' %}
-          {% assign prevpageurl = pages_list[previouspage].url %}
-          {% assign nextpage = currentpage | plus: '1' %}
-          {% assign nextpageurl = pages_list[nextpage].url %}
 
-          {% if previouspage != null %}
-          <a href="{{ site.baseurl }}{{ prevpageurl }}" class="btn"> Zurück </a>
+<!-- Previous Page / Backwards -->
+          {% if currentpage > 0 %}
+            {% assign previouspage = currentpage | minus: '1' %}
+            {% assign prevpageurl = plist[previouspage].url %}
+
+            <a href="{{prevpageurl}}" class="btn pgn pgn-back">&laquo  Zurück</a>
           {% endif %}
 
-          {{ currentpage }}
+<!-- Current Page -->
+          <span class="pgn pgn-currentpage">
+            {{ currentpage | plus: "1"}}
+          </span>
 
+<!-- Next Page / Forward -->
           {% if forloop.rindex > 1 %}
-          <a href="{{ nextpageurl }}" class="btn"> Vor </a>
+            {% assign nextpage = currentpage | plus: '1' %}
+            {% assign nextpageurl = plist[nextpage].url %}
+
+            <a href="{{nextpageurl}}" class="btn pgn pgn-next">Vorwärts  &raquo</a>
           {% endif %}
+
+
+        </div>
 
         {% endif %}
       {% endif %}
     {% endif %}
-
   {% endfor %}
-
-
-
-  {% if page.previous.url %} <button type="button" name="button"> Previous</button> ... link to previous post ... {% endif %}
-  {% if page.next.url %} ... link to next post ... {% endif %}
-
-
 </div>

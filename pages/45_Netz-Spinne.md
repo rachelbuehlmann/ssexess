@@ -2,6 +2,7 @@
 layout: page
 title: Netz-Spinne
 pagenr: 45
+thesispage: true
 
 ---
 Die Spinne in ihrem Netz gilt seit der Antike als eine Allegorie des Tastsinns und zeigt sehr eindrücklich wie er dadurch zu mediatisieren versucht wurde und wie er so fast zu einem sechsten Sinn verkommt, beziehungsweise die Spinne im Netz zu einer Allegorie für das „Viszerale Wissen“[^27], den Instinkt, wird.

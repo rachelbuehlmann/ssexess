@@ -1,7 +1,11 @@
 ---
 layout: page
 title: Vorwort
-pagenr: 02
+pagenr: 2
+thesispage: true
+thpage: true
 ---
-
 #Vorwort
+
+
+test muss spater nachgefüllt werden

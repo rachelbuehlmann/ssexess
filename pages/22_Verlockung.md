@@ -2,9 +2,11 @@
 layout: page
 title: Verlockung
 pagenr: 22
+thesispage: true
 
 ---
-Der Begriff Hysterie kommt aus dem Griechischen und bedeutet Gebärmutter. So meinte man in der Hysterie würde die hungrige Gebärmutter durch den Körper wandern, stets auf der Suche nach Nahrung. Listig und lüstern zeigen sich die Hysterikerinnen in den Attacken, wo sie ausser sich geraten, ihre Körper wilden und entzückenden Zuckungen überlassen. Abgeleitet aus der Übersetzung des Begriffs Hysterie[^17] war man sich dann auch sicher, dass die Attackierten auf sexuellem Weg beruhigt werden können. Manche Vertreter der Medizin des 19. Jh. waren der Meinung, dass die Medizin ein Feld der experimentellen Ethik beschreibt.[^18]
+
+Der Begriff Hysterie kommt aus dem Griechischen und bedeutet Gebärmutter. So meinte man in der Hysterie würde die hungrige Gebärmutter durch den Körper wandern, stets auf der Suche nach Nahrung. Listig und lüstern zeigen sich die Hysterikerinnen in den Attacken, wo sie ausser sich geraten, ihre Körper wilden und entzückenden Zuckungen überlassen. Abgeleitet aus der Übersetzung des Begriffs Hysterie[^17] war man sich dann auch sicher, dass die Attackierten auf sexuellem Weg beruhigt werden können. Manche Vertreter der Medizin des 19. Jh. waren der Meinung, dass die Medizin ein Feld der experimentellen Ethik beschreibt.[^18]
 
 Die Studioräume für die experimentellen Versuchsanordnungen glichen panoptischen Folterkammern. Diese wurden oft absolut verdunkelt, um den Patientinnen jegliches Spiel mit der Kamera zu verunmöglichen.
 

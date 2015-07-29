@@ -2,6 +2,7 @@
 layout: page
 title: Mikro/Makrophon
 pagenr: 55
+thesispage: true
 ---
 
 In der Antike stieg man in die Tiefen der Brunnenschächte um die Weiten des Universums zu beobachten. Das durch die hohen Mauern abgeschirmte Tageslicht liess einem in die Röhre gucken und die Gestirne sehen.

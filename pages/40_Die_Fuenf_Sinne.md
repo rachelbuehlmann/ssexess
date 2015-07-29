@@ -2,6 +2,7 @@
 layout: page
 title: Die Fünf Sinne
 pagenr: 40
+thesispage: true
 ---
 ![Fünf Sinne]({{ site.baseurl }}/assets/img/fuenf_sinne.jpg)
 

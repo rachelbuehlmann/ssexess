@@ -2,7 +2,7 @@
 layout: page
 title: Appendix 1 - Postporn
 pagenr: 61
-
+thesispage: true
 ---
 
 >Their realism dismantles „pornography“ like Ballard‘s text: as a series of fragmentary, alienated, passionless responses to a set of stimuli. A penis inside a moith takes on the detached distancing of a medical lecture, its eroticism excised - just as an atrocity on the news is neutralized by the commercial that follows, resulting in deadend emotional response.

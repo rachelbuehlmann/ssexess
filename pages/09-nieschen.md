@@ -2,6 +2,7 @@
 layout: page
 title: Nieschen
 pagenr: 9
+thesispage: true
 ---
 ![Muybridge]({{ relative-baseurl }}/assets/img/pferdgalopp.jpg)
 

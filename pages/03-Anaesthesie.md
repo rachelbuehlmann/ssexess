@@ -2,6 +2,8 @@
 layout: page
 title: Anästhesie
 pagenr: 03
+thesispage: true
+thpage: true
 ---
 ![harter kern]({{ site.baseurl }}/assets/img/sxs-p4.jpg)
 

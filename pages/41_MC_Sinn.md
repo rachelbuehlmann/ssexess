@@ -2,6 +2,7 @@
 layout: page
 title: MC Sinn
 pagenr: 41
+thesispage: true
 ---
 
 Wenn hier im folgenden von den fünf Sinnen gesprochen wird, dann sind damit folgende Sinne gemeint:

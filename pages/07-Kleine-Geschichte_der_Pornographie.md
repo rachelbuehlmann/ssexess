@@ -2,6 +2,7 @@
 layout: page
 title: Kleine Geschichte der Pornographie
 pagenr: 07
+thesispage: true
 ---
 ![Duchamps]({{ site.baseurl }}/assets/img/sxs-p7-2.jpg)
 

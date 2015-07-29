@@ -2,6 +2,7 @@
 layout: page
 title: Treibgut
 pagenr: 05
+thesispage: true
 ---
 ![Treibgut]({{ site.baseurl }}/assets/img/treibgut.png)
 

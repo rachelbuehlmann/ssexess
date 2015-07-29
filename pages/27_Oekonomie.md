@@ -2,8 +2,9 @@
 layout: page
 title: Ökonomie
 pagenr: 27
+thesispage: true
 ---
-Der Mensch, zurückgeführt auf seine körpereigenen ökonomischen Bewegungen, ist ein dem fortwährenden Wachstum unterworfenes Wesen, das sich vom Tier insofern unterscheidet, als er sich seines eigenen Todes bewusst ist und seine Sexualität nicht nur zum Zweck der Fortpflanzung ausübt, sondern im Stande ist, jegliche Perversion auszuleben und zu zelebrieren. Was Gott bei den Christen und was der Übermensch bei den Nietzscheanern ist, ist der Acephale bei Bataille. Ein kopfloses Wesen ohne Oberhaupt. Die reine Funktion in einer ökonomischen Gleichung wo Wachstum und Verausgabung  Hand in Hand die Prozesse von Einverleibung und Ausscheidung begleiten.
+Der Mensch, zurückgeführt auf seine körpereigenen ökonomischen Bewegungen, ist ein dem fortwährenden Wachstum unterworfenes Wesen, das sich vom Tier insofern unterscheidet, als er sich seines eigenen Todes bewusst ist und seine Sexualität nicht nur zum Zweck der Fortpflanzung ausübt, sondern im Stande ist, jegliche Perversion auszuleben und zu zelebrieren. Was Gott bei den Christen und was der Übermensch bei den Nietzscheanern ist, ist der Acephale bei Bataille. Ein kopfloses Wesen ohne Oberhaupt. Die reine Funktion in einer ökonomischen Gleichung wo Wachstum und Verausgabung  Hand in Hand die Prozesse von Einverleibung und Ausscheidung begleiten.
 
 Die verschmutzte christliche Philosophie  versuchte, das Leben von der Aktivität der menschlichen Hormondrüse zu separieren. Und die säkulare Philosophie, welche den Menschen von seinen exkrementierenden Aktivitäten trennen wolle, sei kein bisschen besser.[^22]  
 

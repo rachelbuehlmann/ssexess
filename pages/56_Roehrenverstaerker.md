@@ -2,6 +2,7 @@
 layout: page
 title: Röhrenverstärker
 pagenr: 56
+thesispage: true
 ---
 
 Was der Brunnenschacht für Epikur und das Papierrohr für Laennec war, waren die photographischen Techniken von Jean Martin Charcot. Das Hôpital de la Salpêtrière war vermutlich die bekannteste psychiatrische Anstalt des 19. Jh. von ganz Europa. Jean Martin Charcot, für den 1882 der erste Lehrstuhl für Krankheiten des Nervensystems errichtet wurde, gilt als Entdecker der Hysterie was ihn aus heutiger Sicht eher in ein zwiespältiges Licht taucht.

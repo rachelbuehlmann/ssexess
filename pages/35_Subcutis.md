@@ -2,6 +2,7 @@
 layout: page
 title: Subcutis
 pagenr: 35
+thesispage: true
 ---
 
 Die biologische und ästhetische Wirkung einer Welt wo der Mensch bloss als zweidimensionale Projektion existiert, als Oberfläche ohne Tiefe, ist der Versuch mittels Vermutungen und Phantomen diesen flachen Gebilden ein bisschen Seele einzuhauchen, als einzige Möglichkeit der „Verkörperung“ zu verstehen.

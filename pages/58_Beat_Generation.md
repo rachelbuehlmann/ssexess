@@ -2,6 +2,7 @@
 layout: page
 title: Beat Generation
 pagenr: 58
+thesispage: true
 ---
 
 Die Auskultation, also das Aushorchen des Körpers, ist eine Technik deren Wurzeln bereits in der Antike gefunden werden können. Was jedoch im Zusammenhang mit dieser Arbeit interessant ist, ist wie im Übergang von der Alten zur Neuen Klinik das Hörverhalten sich verändert hat. Die Alte Klinik, und vorallem die Medizin des Mittelalters, zeigt eine Medizin, die für eine Diagnose sich allen Sinnen bedarf. Symptome und Abwesenheiten von Gesundheit werden quasi ganzheitlich wahrgenommen. Krankheiten werden als Inbalancen von Gesundheit verstanden und mittels strikten Diäten und Verhaltensanleitungen geheilt.

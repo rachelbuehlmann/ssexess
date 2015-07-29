@@ -2,6 +2,7 @@
 layout: page
 title: Eden-Schock
 pagenr: 47
+thesispage: true
 ---
 
 Sie sollte zwar kochen, wurde aber selber dazu angehalten Diät zu halten. Gier und Gefrässigkeit waren beides Attribute die dem teuflischen zugesprochen waren. Zu tief schien der Eden-Schock noch in den Gliedern zu stecken wo die erste Frau aufgrund ihrer gierigen Gefrässigkeit von der verboteten Frucht gegessen hat und dadurch mitsamt ihres Gatten des Gartens verwiesen wurde. Der Appetit sollte also möglichst gezügelt werden um der Verführung nicht zu erliegen.

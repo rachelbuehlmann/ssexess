@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Ssexess
+nopgn: true
 ---
 
 Masterthesis

@@ -2,6 +2,7 @@
 layout: page
 title: Tabu
 pagenr: 50
+thesispage: true
 ---
 Tabu[^30]
 

@@ -2,6 +2,7 @@
 layout: page
 title: Oktan+
 pagenr: 59
+thesispage: true
 ---
 
 *Oktan*[^37]

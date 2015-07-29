@@ -2,6 +2,7 @@
 layout: page
 title: Der Rausch des Sehens in der Alten Klinik
 pagenr: 11
+thesispage: true
 ---
 
 Das Riechen der seriösen Ergüsse, das Schmecken der Exkremente, das Tasten der Drüsen und das Hören des Herzrhythmus wurden zusammengefasst im "Sehen" der Krankheit.

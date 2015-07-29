@@ -2,6 +2,7 @@
 layout: page
 title: Anima
 pagenr: 37
+thesispage: true
 ---
 
 So kam es dann auch zu diesem grotesk anmutenden Einzug des animalischen in das Reich der Mikrologie. Egal ob Körperflüssigkeiten, Nahrungsmittel, oder verrotendes Gras unter die Lupe genommen wurde, überall waren kleine Teile beobachtbar die zuckend durch die Suspensionen, Emulsionen und andere Gemische zappelten. Die kleinen Würmer im männlichen Samen[^23], die Polypen in den eitrigen Ergüssen und die Aale im vergärten Essig wurden zum Sinnbild des vitalistischen Konzepts des frühen 18. Jh. Was sich bewegt das lebt und was lebt bewegt sich; sogesehen wurde nicht nur der Tod zu einem überholten Konzept, sondern auch die Frage nach der Zeugung. Alles enthielt Leben: selbst in den kleinsten Staubwölckchen wurden scheinbar lebende Organismen gefunden. In Bewegung animiert wimmelte es plötzlich in jedem noch so tot geglaubten Partikel. Der Lebenshauch, Anime, wurde dank dem Mikroskop seinem geistig ephemeren entledigt und ins Diesseits gebracht.

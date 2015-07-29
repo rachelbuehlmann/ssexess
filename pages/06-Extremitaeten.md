@@ -2,6 +2,7 @@
 layout: page
 title: Extremitäten
 pagenr: 06
+thesispage: true
 ---
 ![Harter Kern]({{ site.baseurl }}/assets/img/sxs-p6.jpg)
 

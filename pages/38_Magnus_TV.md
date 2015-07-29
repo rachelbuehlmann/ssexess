@@ -2,6 +2,7 @@
 layout: page
 title: Magnus TV
 pagenr: 38
+thesispage: true
 ---
 
 Heute gilt es als ganz normal sich über die korrupten Machenschaften die der visuellen Informationen zugrunde liegen auszulassen. Der Diskurs zum okularzentristisch geprägten transparente Bürger füllt Bücher und Bibliotheken. Tagtäglich werden wir penetriert von Bildinformationen und können dem Schwall auch mit geschlossenen Augen kaum noch wiederstehen. ...

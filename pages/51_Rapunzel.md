@@ -2,6 +2,7 @@
 layout: page
 title: Rapunzel
 pagenr: 51
+thesispage: true
 ---
 Die matriarchal geprägte mesopatmische Gesellschaft vergötterte die Urmutter Tiamat die der Legende nach die Erde aus Menstruationsblut erschaffte. Die Mädchen verliessen die Gemeinschaft für Monate um danach als junge und fruchtbare Frauen zurückzukehren.
 

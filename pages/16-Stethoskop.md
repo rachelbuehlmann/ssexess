@@ -2,6 +2,7 @@
 layout: page
 title: Stethoskop
 pagenr: 16
+thesispage: true
 ---
 
 Nicht mehr die Scham verhinderte die Berührung, sondern der Ekel vor dem Schmutz und dem Elend; nicht mehr die Unschud, sondern die Hässlichkeit der Körper hielt ab. Die unmittelbare Auskultation war für den Arzt ebenso unangenehm wie für den Patienten; "schon der Ekel machte sie in den Spitälern praktisch undurchführbar; bei den meisten Frauen ist sie kaum ratsam und bei einigen ist die Grösse der Brüste sogar ein physisches Hindernis."

@@ -17,4 +17,4 @@ Weil das Bild den ersten Krieg bereits im byzantinischen Streit gewonnen hat und
 
 Diese Arbeit ist eine Weiterführung von „SSEXESS - Palindromische Universalitäten“, die am 20. September 2011 vorgelegt wurde. Einige Abschnitte sind überarbeitet worden, andere weggelassen und neue sind dazugekommen. Insgesamt kann die vorliegende Arbeit auch als Fortsetzung von „Splitter Splatter - von Zerstückelungen und anderen Obsessionen“ (vorgelegt am 31. August 2010) und „Sinn und Zweck - von der Teilung der Sinne“ (vorgelegt am 20. März 2011) gelesen werden.
 
-[^1]: kramdown footnotw
+[^1]: falsche Fussnote

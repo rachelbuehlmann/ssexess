@@ -5,6 +5,8 @@ pagenr: 12
 thesispage: true
 ---
 
+![Grabtuch Christi]({{ relative-baseurl }}/assets/img/image12.jpg)
+
 Die Krankheiten wurden mit feinen Fäden umsponnen, welche sich als Abdrücke der Geschwulste und fiebrigen Entzündungen im Feinstofflichen des Kommentars[^8] zeigten. Die Diagnose glich nicht einer Examination, sondern einer kommentierten Entzifferung. Durch das Aufblitzen eines benennbaren Moments der Krankheit wurde deren weiterer Verlauf nicht nur prophetisch vorausgesagt, sondern auch aufgrund dessen medikamentiert. Die Abbilder der wilden Natur der Krankheit, dargestellt in den Tableaus, sind Momentaufnahmen, die vorgeben, den Charakter der Krankheit in ihrem vorteilhaftesten Licht abzubilden und zu benennen. In den Tableaus wurde so behauptet zu wissen, woher die Krankheit kommt, wohin sie geht und vor allem: wo sie sitzt. Das Instrument der Klinik ist dieser einfrierende Blick, welcher durch das kommentierende Wort immer zwischen dem Unsichtbaren und dem Ungesagten oszilliert.
 
 ---

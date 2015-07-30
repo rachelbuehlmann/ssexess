@@ -4,6 +4,9 @@ title: Monster und Freaks
 pagenr: 20
 thesispage: true
 ---
+
+![Freaks, Browning, 1932]({{ relative-baseurl }}/assets/img/freaks_und_monster.png)
+
 im späten Mittelalter: Wunder
 
 während der Aufklärung: Vielfalt der Natur

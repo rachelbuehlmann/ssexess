@@ -5,6 +5,8 @@ pagenr: 14
 thesispage: true
 ---
 
+![Licht des Todes]({{ relative-baseurl }}/assets/img/licht_des_todesjpg)
+
 In der neuen Klinik der Pathologie galt es nicht mehr länger, die Krankheit in einem vorteilhaften Moment dingfest zu machen und als etwas vom Körper Abstrahiertes darzustellen, sondern den Vorhang des Scheinbaren zu lüften und dem grellen Licht des Todes ins Auge zu blicken. Die Baumstruktur der nosologischen Tableaus weicht im Übergang zur neuen Klinik allmählich dem rhizomatischen der pathologischen. Am Anfang der Untersuchung stand jetzt der Tod. Die leblosen Körper wurden vom ganzen Unrat des Todes gesäubert. Verfärbungen und Verschleimungen, die den toten Körper zurück in den Bereich des Lebendigen zu bringen drohten, wurden entfernt. Je frischer die Leiche, desto aufschlussreicher konnte über die todbringende Ursache berichtet werden. Die Krankheit selbst wurde nicht mehr als Attribut des Körpers betrachtet, die Krankheit wurde vielmehr als Verkörperung des drohenden Todes gesehen.
 
 >"Nicht weil der Mensch krank geworden ist, stirbt er, sondern weil er sterben kann, geschieht es dem Menschen, dass er krank wird."[^9]

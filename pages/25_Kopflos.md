@@ -6,6 +6,7 @@ thesispage: true
 
 ---
 ![Acephale]({{ relative-baseurl }}/assets/img/image24.jpg)
+*Erste Ausgabe von Acéphale, 1939. Zeichnung von André Masson*
 
 Die Zeichnung des Acéphale[^19] zeigt ausdrucksstark die Verkörperung von Batailles Theorie der umgekehrten Hermetik in der Form einer Parodie oder einer anti-idealistischen Version der harmonischen Anordnung des menschlichen Körpers aus der Zeit der Renaissance.
 

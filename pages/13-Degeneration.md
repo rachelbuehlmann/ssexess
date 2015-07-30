@@ -6,6 +6,8 @@ thesispage: true
 ---
 
 ![Das vermeintlich Grabtuch Christi in der Klinik]({{ relative-baseurl }}/assets/img/image13.jpg)
+*Das vermeintlich Grabtuch Christi in der Klinik*
+
 
 Die Organe der geöffneten Leichen zeigten nicht mehr vordergründig deren voneinander unabhängige Funktionen, sondern die verbindenden Gemeinsamkeiten der Strukturen. Die Krankheit wurde nicht mehr anhand von beschädigten Organen festgemacht. Mit dem Öffnen des Körpers konnte festgestellt werden, dass die Krankheit nicht chaotisch verläuft, sondern nach bestimmten Strukturen ihren Weg sucht. Die Einsicht, dass Oberflächen in ihren krankhaften Stadien dazu tendieren, bestimmte Strukturen von anderen Geweben zu imitieren, indem sie deren Struktur nachahmen, führte dazu, die Krankheit als Degeneration von Gesundheit wahrzunehmen.
 

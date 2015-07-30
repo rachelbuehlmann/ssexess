@@ -5,6 +5,7 @@ pagenr: 34
 thesispage: true
 ---
 ![Epidermis]({{ relative-baseurl }}/assets/img/image31.jpg)
+*Ein junges Mädchen in Bangladesh 1973, infiziert mit Pocken.*
 
 Zu Beginn des 18. Jh begann das Modell des ganzheitlichen Körpers in Einzelteile zu zersplittern. Die immerwiederkehrenden Krankheiten wie Pocken und Syphilis unterstützten diesen Zerfallsprozess nicht unwesentlich.
 

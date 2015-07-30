@@ -5,7 +5,7 @@ pagenr: 31
 thesispage: true
 ---
 ![Idol Augustine]({{ relative-baseurl }}/assets/img/image29.jpg)
-Anonnce aus einer surrealistischen Zeitung die das fünfzigjährige Jubiläum der Hysterie preisen
+*Anonnce aus einer surrealistischen Zeitung die das fünfzigjährige Jubiläum der Hysterie preisen*
 
 1928 feierten die Surrealisten das 50jährige Jubiläum der Hysterie mit einer Reproduktion der photographierten Ekstasen von Augustine. Der dazugehörige Slogan lautete: „Wir Surrealisten möchten hier gerne das fünfzigjährige Jubiläum der Hysterie feiern, der grössten poetischen Entdeckung vom Ende des 19. Jh. „Wir, die wir nichts mehr lieben als jene jungen Hysterikerinnen, deren vollkommenste Gestalt uns durch die Untersuchungen an der reizenden X.L. (Augustine) überliefert worden ist.“.
 

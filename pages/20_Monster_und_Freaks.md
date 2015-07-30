@@ -6,6 +6,7 @@ thesispage: true
 ---
 
 ![Freaks, Browning, 1932]({{ relative-baseurl }}/assets/img/freaks_und_monster.png)
+*Filmstill aus Freaks Browning ,Tod, 1932*
 
 im späten Mittelalter: Wunder
 

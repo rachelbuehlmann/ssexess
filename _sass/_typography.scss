@@ -16,7 +16,8 @@ p {
   //font-family:  "futura-pt", 'Open Sans', Arial;
   font-weight: 200;
   line-height: 2;
-  @media(max-width: 640) {
+
+  @media(max-width: 640px) {
     font-weight: 400;
   }
 }

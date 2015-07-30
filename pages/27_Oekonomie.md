@@ -14,5 +14,7 @@ Es ist das Wesen der Kirche, und die Struktur der kapitalistischen Systemen, die
 
 Batailles Theorie der Ökonomie besagt, dass nach einer bestimmten Menge von zugeführter Energie die überschüssige Energie, das heisst alles was nicht zum Selbsterhalt des Systems benötigt wird, in Wachstum ausgeschöpft wird. Dieser Prozess wiederum ist dann beendet, wenn das Wachstum an seine Grenzen stösst. Dann kann sie nur noch ekstatisch verschwendet werden.
 
+---
+
 [^22]:
     Vgl. dazu: Encyclopaedia Acephalica Georges Bataille, Michel Leris u.a. S. 24

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nieschen
+title: Nischen
 pagenr: 9
 thesispage: true
 ---

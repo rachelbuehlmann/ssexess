@@ -5,6 +5,8 @@ pagenr: 01
 thesispage: true
 thpage: true
 ---
+![Ausgangslage]({{ site.baseurl }}/assets/img/ausgangslage1.jpg)
+
 
 Sound Studies: Mit den Ohren sehen, mit den Augen hören. Klang visualisieren und Bilder vertonen. Akusmatik, Schizophonik, Deprivation und Degenartion. Was ist Bild, was ist Raum, was ist Klang und was ist Zeit? Was ist Klang im Bild im Raum in der Zeit? Synchronismus oder Synchronizität? Ein relatives Ungleichgewicht, eine kleine Störung der kosmologischen Ordnung?
 

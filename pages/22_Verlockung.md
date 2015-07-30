@@ -12,6 +12,7 @@ Die Studioräume für die experimentellen Versuchsanordnungen glichen panoptisch
 
 Die so entstandenen Bilder glichen kinematographischen Erzeugnissen, wo die Patientinnen, in Blitzlichtgewitter getaucht, dem Sturm der Erregungen total ausgeliefert waren, und nicht selten dadurch erst in die Attacken geführt und zur totalen Verausgabung gezwungen wurden.
 
+---
 
 [^17]:
 	Ab 1898 wurde das Traumatisertsein endlich vollständig an das Kranksein angeschlossen. Noch bis 1952 wurde dieser Begriff als Sammelbegriff für eine Vielzahl nicht klar umrissener und ausschließlich weiblicher Beschwerden verwendet, bis er von der „American Psychiatric Society“ aus der Liste der Krankheiten gestrichen wurde.

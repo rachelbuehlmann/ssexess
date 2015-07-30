@@ -11,6 +11,8 @@ Mit dem Hörrohr, das bereits viel früher entwickelt wurde, hört ein krankes O
 
 Dies beschreibt den Zeitpunkt als dem "Soundspace" die beiden gegensätzlichen Orte von Klang und Noise zugeführt wurden und eben diesen begründeten. Das Instrument des Stethoskops unterteilte den Klangraum als in erwünschte und auszublendenden Räume und erforderte ein absolut neues Verständnis von Hören. Laënnec's Schriften zeugen von einer Fülle von einer neuen Terminologie des Hörens wie sie vorher noch nirgends zu finden war.
 
+---
+
 [^11]:
       aus: [The Audible Past - Cultural origins of sound reproduction Jonathan Sterne](http://www.abebooks.com/9780822330042/Audible-Past-Cultural-Origins-Sound-0822330040/plp)
 

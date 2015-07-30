@@ -17,7 +17,7 @@ p {
   font-weight: 200;
   line-height: 2;
 
-  @media (max-width: 640px) {
+  @media (max-width: 480 px) {
     font-weight: 400;
   }
 }

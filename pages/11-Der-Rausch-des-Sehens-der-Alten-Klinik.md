@@ -13,5 +13,7 @@ In der Klinik des 18. Jh. wurde dieser Rausch des Sehens bis zur Ekstase betrieb
 
 >"Die Tableaus sind nicht nur gut getroffene Portraits, sie gleichen sich auch untereinader. Der Abstand, der eine Krankheit von der Anderen trennt, misst sich einzig am Grad ihrer Ähnlichkeit." [^7]
 
+---
+
 [^7]:
       aus: Die Geburt der Klinik Michel Foucault; S. 22

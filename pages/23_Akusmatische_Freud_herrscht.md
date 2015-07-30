@@ -9,6 +9,3 @@ Man hat mit Recht die Wende, die Sigmund Freud in der Erkenntnis der unbewussten
 >„Die Maske ist das fleischgewordene Chaos“,
 
 *Georges Bataille*
-
-
----

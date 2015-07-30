@@ -1,5 +1,5 @@
 ---
-﻿layout: page
+layout: page
 title: Der Goldene Schnitt
 pagenr: 15
 thesispage: true
@@ -9,4 +9,4 @@ Bei der Unterscheidung zwischen der alten anatomischen Klinik und der neuen path
 
 
 [^10]:
-      Vgl. dazu: Die Geburt der Klinik Michel Foucault; S. 161
+		Vgl. dazu: Die Geburt der Klinik Michel Foucault; S. 161

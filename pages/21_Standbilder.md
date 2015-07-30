@@ -11,7 +11,6 @@ Die drei Ebenen des Standbildes sind:[^16]
 2. fiktive, filmische Körper
 3. Körper der Zuschauer, Kinogänger (weil „Film“ nach dem Abspann „weiterläuft“)
 
-
 ---
 
 [^16]:

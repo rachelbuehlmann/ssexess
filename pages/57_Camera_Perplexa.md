@@ -4,6 +4,7 @@ title: Camera Perplexa
 pagenr: 57
 thesispage: true
 ---
+![Camera Perplexa]({{ site.baseurl }}/assets/img/image44.jpg)
 
 Als „Camera Perplexa“[^35] kann einerseits der Aufnahmeraum verstanden werden, der als weisser Raum Spuren in Form von Farbklecksen und Bohrlöcher erfahrener Traumatas zeigt; und andererseits als der Körper, in unserem Falle im speziellen als der weibliche Körper an sich.
 

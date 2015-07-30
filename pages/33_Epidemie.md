@@ -4,6 +4,7 @@ title: Epidemie
 pagenr: 33
 thesispage: true
 ---
+![Bild finden!]({{ relative-baseurl }}/assets/img/image29.jpg)
 
 Die wuchernde Verbreitung der Pest während des Mittelalter versetzte das Volk in Angst und schrecken. Zum ersten Mal in der Geschichte der Menschheit sah man sich bedroht von diesem gestaltlosen und unsichtbaren Bösen besessen und zersetzt zu werden.
 

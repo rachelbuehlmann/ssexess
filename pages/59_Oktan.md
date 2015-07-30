@@ -4,6 +4,7 @@ title: Oktan+
 pagenr: 59
 thesispage: true
 ---
+![Grafik Oktan]({{ site.baseurl }}/assets/img/oktan.jpg)
 
 *Oktan*[^37]
 

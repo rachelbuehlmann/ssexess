@@ -4,6 +4,8 @@ title: Tastsinn
 pagenr: 42
 thesispage: true
 ---
+![Tastsinn]({{ site.baseurl }}/assets/img/Tastsinn.jpg)
+
 Der Tastsinn wird als der unterste Sinn beschrieben. Zusammen mit dem Geschmackssinn werden sie als die animalischen Sinne bezeichnet. Jedes Tier besitzt sie und sie sind für das nackte überleben notwendig.
 
 In westlichen Kulturen wird der Tastsinn als der dem Boden nahesten Sinn beschrieben. Es ist der weibliche, der devote, und der Sinn der Verführung. Der Tastsinn ist unmöglich an einem Organ festzumachen und ist der unmediatisierteste, der unmittelbarste[^26] aller Sinne. Er wiederstrebt sich nicht nur jeglicher Lokalisierung, sondern lässt sich auch nur schwer Verdinglichen.

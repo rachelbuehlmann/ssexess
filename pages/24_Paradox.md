@@ -6,7 +6,7 @@ thesispage: true
 
 ---
 
-![Tableau Augustine]({{ relative-baseurl }}/assets/img/idole_augustine.png)
+![Tableau Augustine]({{ relative-baseurl }}/assets/img/idol_augustine.png)
 
 Georges Bataille war davon überzeugt, dass seine Aufgabe das Schreiben und das Entwickeln einer paradoxen Philosophie ist. Bataille‘s Ton ist immer vehement und passioniert. Die Entwicklung einer Anti-Ökonomie fand zu der Zeit statt, als der Norden Frankreichs von den Nazis belagert wurde, und der Faschismus auf seinem Zenit war. In einem Team von Leuten, bestehend aus drei Fraktionen, wurde 1929 das Magazin Documents gegründet.
 

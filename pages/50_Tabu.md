@@ -4,6 +4,9 @@ title: Tabu
 pagenr: 50
 thesispage: true
 ---
+
+![Grafik Tabu]({{ site.baseurl }}/assets/img/tabu.jpg)
+
 Tabu[^30]
 
 Menstruationsblut besteht ca. zu 60% aus Blut. Die restlichen 30% machen Scheidensekrete und Gebärmutterschleim aus. In Meyers Konversationslexikon von 1888 steht geschrieben: „Die Schleimabsonderung in der Scheide, in geringerm Grad auch in der Gebärmutter, nimmt zu, die äußern Genitalien werden blutreicher und wärmer; viele Kapillargefäße der Gebärmutterschleimhaut zerreißen infolge ihrer übermäßigen Anfüllung mit Blut, und das vergossene Blut läuft eben als Menstrualblut ab. Bei gesunden weiblichen Individuen dauert die Menstrualblutung 2-5 Tage; die Menge des vergossenen Bluts wechselt zwischen 0,1 u. 0,2 kg.“ Das Menstruationsblut kann aufgrund seiner beschaffenheit nicht gerinnen und weist einen saureren ph-Wert als arterielles Blut auf.[^31] Anfangs 19. Jh. sah man den geringen Gehalt an Faserstoffen als Grund dafür, dass das Menstruationsblut kaum zur Fäulnis neige weil in den Faserstoffen des Blutes eine hohe Konzentration an Stickstoffelementen nachgewiesen werden konnten die angeblich für den Faulungsprozess verantwortlich gemacht wurden. Obwohl das „Menstrualblut“ angeblich über ein Jahr gehalten werden kann ohne zu faulen und zu gerinnen wurden menstruierende Frauen seit Jahrhunderten aus gewissen gesellschaftlichen und religiösen Ritualen ausgeschlossen.

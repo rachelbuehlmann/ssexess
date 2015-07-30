@@ -4,6 +4,9 @@ title: Spektakel
 pagenr: 30
 thesispage: true
 ---
+![Jean Martin Charcot]({{ relative-baseurl }}/assets/img/image26.jpg)
+
+
 Mit der Inszenierung der Hysterie ist Charcot eine palindromische Universalität gelungen, die durch die auf den Tableaus eingeschriebenen Wahrheiten zu epistemologischen Gegebenheiten werden konnte. In der Mitte dieses Prozesses ist die Bühne, das Theater der Absurditäten. Hinter dem Vorhang sitzen die Photographen und Dramaturgen die mit ihren Linsen und Nadeln die vorsichtig gecasteten Protagonistinnen ablichten und stimulieren. Im Publikum vereint sich die bürgerliche Klasse aus den wissenschaftlichen Gebieten der Medizin und Psychiatrie und den Vertretern aus Kunst und Philosophie. Gespannt und erregt verfolgen sie das ihnen gebotene hysterische Spektakel der Spaltung von gespenstischer Expansion des Geistes und den gewundenen Körper in Kontraktion.
 
 Charcot‘s medizinisch-neurologische Studien der Hysterie, welche als die Grundsteine für die Psychoanalyse gelten, sind für Foucault von ganz besonderem Interesse. Er nennt Charcot‘s Klinik, die Salpetriere, einen „enormen Apparat für Überwachungen und Experimenten. Mit Durchsuchungs- und Verhörmethoden“. Er fügt hinzu, dass es gleichzeitig eine „Maschinerie für Anregungen“ ist, ausgestattet mit öffentlichen Präsentationen von Krisen die sorgfältig inszenierten Theatervorführungen glichen.

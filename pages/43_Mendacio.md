@@ -4,6 +4,7 @@ title: Mendacio
 pagenr: 43
 thesispage: true
 ---
+![Mendacio]({{ site.baseurl }}/assets/img/mendacio.jpg)
 
 Zu Beginn der Aufklärung, im Jahre 1607, hat Thomas Tomkis das wunderbare Theaterstück „Lingua, or the combat of the Senses“ geschrieben was einen guten Einblick in die Quereleien die sich um den Tastsinn entwickelten, bieten kann. In diesem wissenschaftlichen Drama wird anhand eines Wettkampfes dargestellt, wie die Sinne um Überlegenheit kämpfen.
 

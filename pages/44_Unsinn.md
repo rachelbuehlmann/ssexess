@@ -4,6 +4,7 @@ title: Unsinn
 pagenr: 44
 thesispage: true
 ---
+![Unsinn]({{ site.baseurl }}/assets/img/unsinn.jpg)
 
 Dieses Drama aus dem frühen 17. Jh. zeigt sehr schön die Problematik die dem Tastsinn innewohnt. Er ist einerseits der direkteste, der unmediatisierteste Sinn, und ist andererseits nicht zu lokalisieren, beziehungsweise zu verdinglichen. Welchen Sinn hat denn dieser Sinn?
 

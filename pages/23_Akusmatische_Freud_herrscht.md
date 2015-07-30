@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Akustische Freud’ herrscht
+title: Akusmatische Freud’ herrscht
 pagenr: 23
 thesispage: true
 ---

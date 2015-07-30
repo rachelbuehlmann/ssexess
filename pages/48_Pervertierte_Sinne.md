@@ -4,6 +4,7 @@ title: Pervertierte Sinne
 pagenr: 48
 thesispage: true
 ---
+![Grafik pervertierte Sinne]({{ site.baseurl }}/assets/img/pervertierte_sinne.jpg)
 
 Neben dem Kochen spielte auch die Näh- und Destillierkunst eine wichtige Rolle. Die ordentliche Hausfrau muss mit Faden und Nadel so umgehen können, dass die Roben und Gewänder stets den Ansprüchen der aktuellen Mode angepasst werden können und der Schein, das Sein nach aussen glänzte. Zusammenfassend kann also gesagt werden, dass die Frau eine Expertin in Sachen Geschmäcker und deren medizinischen Wirkungen, eine Künstlerin der betörenden Düfte und eine Zauberin im Bereich des feinstofflichen Scheines in Zusammenhang mit Tuch und Nadel zu sein hatte. Jedes dieser Talente galt als äusserst tugendhaft und jedes dieser Talente barg in sich bereits eine dunkle Seite die wie ein Geist über den Schultern der Frauen zu schweben schien. Es ist nicht eindeutig klar worauf der Begriff Hexe etymologisch zurückzuführen ist. Ob er nun wirklich aus dem Altgermanischen kommt und so etwas wie „geisterhaftes Wesen“ oder „guter/schlechter Geist“ bedeutet, spielt für diese Arbeit keine Rolle. Was jedoch bezeichnend ist, ist der Zusammenhang zwischen den „weiblichen Sinnen“ und deren Nutzen.
 

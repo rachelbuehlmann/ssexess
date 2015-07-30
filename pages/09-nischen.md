@@ -13,6 +13,8 @@ Nur ein Jahr nach der ersten Daguerreotypie wurde das Verfahren zur fotographisc
 
 Die Einführung von narrativen Elementen, mögen sie noch so einfach sein, hatte zur Folge, dass Moral, Ideologie, Mythos und Kultur in den erotischen Film einflossen und somit der Geburt der Pornographie halfen, indem ihr die Nabelschnur des rein Physiognomischen abgetrennt wurde. Wenn auch Muybridge bereits um 1887 in seinen Bewegungsstudien die Frauen[^5] in einen reizenden Hauch von Erotik tauchte, indem er sie vor den beobachtenden Augen der Wissenschaft ein Spiel inszenieren liess, kann das Paris um 1914 als Geburtsort des pornographischen Films bezeichnet werden.
 
+---
+
 [^4]:
     Stagfilme sind oft kurze Filme, die im Loop gezeigt werden. Im Unterschied zu 		Hard Core Filmen wird in Stag Filmen kaum direkter sexueller Kontakt gezeigt. Oft 	handelt es sich um Stripteaseszenen, die durch ein Loch in einer Wand beobachtet werden. In den frühen Stagfilmen wird keine Klimax gezeigt. Denn dadurch könnte der eigentliche Zweck des Bordellbesuchs ja obsolet werden.
 

@@ -11,5 +11,7 @@ In der neuen Klinik der Pathologie galt es nicht mehr länger, die Krankheit in 
 
 Mit der Entwicklung der pathologischen Klinik konnte das Leben aufgrund des ihm innewohnenden Todes quasi von unten analysiert werden. Die Krankheit wurde so aus der Dunkelheit der Oberfläche ins Licht des Inneren des Todes geführt.
 
+---
+
 [^9]:
       Michel Foucault, Die Geburt der Klinik, S. 169

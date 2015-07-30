@@ -10,6 +10,6 @@ Paris, um 1880, Schauplatz eines nosologischen Theaters. In der Klinik Salpêtri
 ---
 
 [^14]:
-	„Die Vorstellung in der Freud‘schen Ökonomie reproduziert kein Objekt (Wunschobjekt): sie produziert seine Absenz und dynamisiert seinen Verlust. Indem sie die Absenz produziert, verleiht sie ihr den Wert eines „Supplements“, einen Mehrwert, nicht den Wert der Klarheit, sondern eines Lichtblitzes. In der Hysterie wäre die Vorstellung das zum Verlust gemachte Geniessen selbst, insofern als der Verlust Ereignis wird, sichtbares Ereignis und auch bewegtes Ereignis“
+	>„Die Vorstellung in der Freud‘schen Ökonomie reproduziert kein Objekt (Wunschobjekt): sie produziert seine Absenz und dynamisiert seinen Verlust. Indem sie die Absenz produziert, verleiht sie ihr den Wert eines „Supplements“, einen Mehrwert, nicht den Wert der Klarheit, sondern eines Lichtblitzes. In der Hysterie wäre die Vorstellung das zum Verlust gemachte Geniessen selbst, insofern als der Verlust Ereignis wird, sichtbares Ereignis und auch bewegtes Ereignis“
 
 	aus: Erfindung der Hysterie Georges Didi-Huberman S. 170f
